@@ -2,11 +2,11 @@
 
 How to run this game 
 
-0. Clone the whole file
+# Clone the whole file
 
 	git clone https://github.com/NTUEE-ESLab/2020-Pikachu-volleyball.git
 
-1. Start the server
+# Start the server
 
 	cd 2020-Pikachu-volleyball
 	
@@ -35,7 +35,7 @@ Also, you can see whether your server is connected.
 If the F12 console told you "WebSocket connection to 'ws://127.0.0.1:8866/' failed: Unknown reason",
 you need to turn off the localhost and npm start again.
 	
-3. STM32
+# STM32
 
 1. Download mbedos 6.0.
 2. Create a new program and load mbed-os-example-wifi as your active program.
