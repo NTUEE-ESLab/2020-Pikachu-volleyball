@@ -20,12 +20,13 @@ Or you can play at right side
 	
 If you want to play with yuor friend, open another terminal and run both 1p & 2p. Then turn the STM32 on.
 
-2. Start the game 
+# Start the game 
 You may need pixi.js to execute the program. 
 Go https://github.com/pixijs/pixi.js/ to get more information. 
 You need to open another terminal to start the game.
 	
 	cd pika
+
 	npm start
 	
 Then you can open Chrome and and go to localhost http://localhost:8080/ to start it. 
@@ -45,6 +46,11 @@ you need to turn off the localhost and npm start again.
 6. Complie the program to your STM32.
 
 If mbed-os want to change your device setting, click No.
+
+# Demo Video
+
+1 player mode: https://youtu.be/Qfkzt2Bb2ZQ
+2 player mode: https://youtu.be/HzImpa4oTNo
 	
 	
 	
