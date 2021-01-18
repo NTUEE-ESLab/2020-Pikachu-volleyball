@@ -25,7 +25,7 @@ You may need pixi.js to execute the program.
 Go https://github.com/pixijs/pixi.js/ to get more information. 
 You need to open another terminal to start the game.
 	
-	cd pika
+	cd pika/pikachu-volleyball
 
 	npm start
 	
